@@ -1,4 +1,4 @@
-# 🧠 IBM Watsonx AI Deployment
+# 🧠 IBM Watsonx AI Agent 
 
 This project integrates IBM Watsonx AI via a secure API to perform intelligent tasks like recipe generation, conversation, and more.
 
@@ -19,7 +19,3 @@ https://us-south.ml.cloud.ibm.com/ml/v4/deployments/53690cf3-d53e-46a4-970a-db3e
 
 ## 🖼️ Screenshot: Home UI
 ![Home UI](home.jpg )
-### 🤖 API Response
-![Agent Demo](response1.jpg)
-![Agent Demo(2)](response(2).jpg)
-![Agent Demo(3)](response3.jpg)
