@@ -20,6 +20,6 @@ https://us-south.ml.cloud.ibm.com/ml/v4/deployments/53690cf3-d53e-46a4-970a-db3e
 ## 🖼️ Screenshot: Home UI
 ![Home UI](home.jpg )
 ### 🤖 API Response
-![Agent Demo](agent_response1.jpg)
+![Agent Demo](agent response1.jpg)
 ![Agent Demo(2)](response(2).jpg)
 ![Agent Demo(3)](response3.jpg)
