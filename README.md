@@ -10,7 +10,7 @@ Built as part of the AICTE & IBM SkillsBuild internship (Edunet Foundation), Jul
 |---|---|
 | ![Home screen](home.jpg) | ![Agent response](response3.jpg) |
 
-More example outputs: [response 2](docs/response-2.jpg) · [response 3](docs/response-3.jpg)
+More example outputs: [response 2](response_(2).jpg) · [response 3](agent_response1.jpg)
 
 ## How it works
 
